@@ -1,0 +1,118 @@
+{
+    "market_analysis": {
+        "technical_indicators": {
+            "moving_averages": {
+                "short_term": ,
+                "long_term": ,
+                "explanation": ""
+            },
+            "RSI": {
+                "period": ,
+                "overbought_threshold": ,
+                "oversold_threshold": ,
+                "explanation": ""
+            },
+            "MACD": {
+                "short_period": ,
+                "long_period": ,
+                "signal_period": ,
+                "explanation": ""
+            }
+        },
+        "patterns": [
+            "double_bottom",
+            "head_and_shoulders",
+            "flag"
+        ],
+        "volume_analysis": {
+            "condition": "",
+            "explanation": ""
+        }
+    },
+    "fund_allocation": {
+        "position_sizing_percentage":,
+        "diversification_tickers": [
+        ],
+        "explanation": ""
+    },
+    "risk_management": {
+        "stop_loss_percentage":,
+        "take_profit_percentage":,
+        "risk_reward_ratio": ,
+        "explanation": ""
+    },
+    "performance_metrics": {
+        "historical_performance":,
+        "benchmark_comparison": ,
+        "explanation":"
+    },
+    "transaction_costs_and_taxes": {
+        "include_fees_commissions":,
+        "short_term_capital_gains_tax":,
+        "explanation": ""
+    },
+    "regular_reviews_and_adjustments": {
+        "review_frequency_days":,
+        "rebalance_frequency_days":,
+        "explanation": ""
+    },
+    "trading_strategy": {
+        "entry_signals": {
+            "conditions": [
+                {
+                    "indicator": "",
+                    "value": "",
+                    "direction": "",
+                    "explanation": ""
+                },
+                {
+                    "indicator": "",
+                    "value": ,
+                    "condition": "",
+                    "explanation": ""
+                },
+                {
+                    "indicator": "",
+                    "condition": "",
+                    "explanation": ""
+                }
+            ],
+            "stop_loss_percentage": ,
+            "take_profit_percentage": ,
+            "explanation": ""
+        },
+        "exit_signals": {
+            "conditions": [
+                {
+                    "indicator": "",
+                    "value": "",
+                    "direction": "",
+                    "explanation": ""
+                },
+                {
+                    "indicator": "",
+                    "value": ,
+                    "condition": "",
+                    "explanation": ""
+                },
+                {
+                    "indicator": "",
+                    "condition": "",
+                    "explanation": ""
+                }
+            ],
+            "stop_loss_percentage": ,
+            "take_profit_percentage": ,
+            "explanation": ""
+        }
+    },
+    "implementation_and_monitoring": {
+        "data_analysis_tools": [
+        ],
+        "execution_methods": [
+        ],
+        "monitoring_activities": [
+        ],
+        "explanation": ""
+    }
+}
